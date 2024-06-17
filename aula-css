@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My News Portal</title>
+    <link rel="stylesheet" href="./main.css" />
+</head>
+<body>
+    <header>
+        <h1>My News Portal</h1>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#sports" title="Go to the sports section">Sports</a>
+                </li>
+                <li>
+                    <a href="#economy" title="Go to the news section">Economy</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <section id="sports">
+        <h2>Sports</h2>
+        <article>
+            <img src="./imagem/futebol-grama" alt="Soccer ball on the lawn" />
+            <header>
+                <time>06/17/2022 at 12:10</time>
+            </header>
+            <h3>Great Classic Tonight</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Read the full news">Read more</a>
+        </article>
+        <article>
+            <img src="./imagens/futebol-americano" alt="Americam footbol player with the ball in his hand" />
+            <header>
+                <time>06/17/2022 at 12:10</time>
+            </header>
+            <h3>Superbowl's Night</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Read the full news">Read more</a>
+        </article>
+        <article>
+            <img src="./imagens/basquete.jpg" title="Aerial view of a basketball court" />
+            <header>
+                <time>06/17/2022 at 12:10</time>
+            </header>
+            <h3>News About the NBA</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Read the full news">Read more</a>
+        </article>
+        <article>
+            <img src="./imagens/basquete.jpg" title="Aerial view of a basketball court" />
+                <time>06/17/2022 at 12:10</time>
+            </header>
+            <h3>News About the NBA</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Read the full news">Read more</a>
+        </article>
+    </section>
+    <section id="economy">
+        <h2>Economy</h2>
+        <article>
+            <img src="./imagens/dolares.jpg" alt="Many Dollars" />
+            <header>
+                <time>06/17/2022 at 12:10</time>
+            </header>
+            <h3>Dollar Up 0.50%</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Read the full news">Read more</a>
+        </article>
+        <article>
+            <img src="./imagens/euro.jpg" alt="Several Euro banknotes" />
+            <header>
+                <time>06/17/2022 at 12:10</time>
+            </header>
+            <h3>Euro Down 0.40%</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Read the full news">Read more</a>
+        </article>
+        <article>
+            <img src="./imagens/petróleo.jpg" alt="Oil extraction" />
+            <header>
+                <time>06/17/2022 at 12:10</time>
+            </header>
+            <h3>Increase in the price of a barrel of Oil</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Read the full news">Read more</a>
+        </article>
+    </section>
+</body>
+</html>
