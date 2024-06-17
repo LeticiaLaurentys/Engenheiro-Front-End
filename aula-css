@@ -24,7 +24,7 @@
     <section id="sports">
         <h2>Sports</h2>
         <article>
-            <img src="./imagem/futebol-grama" alt="Soccer ball on the lawn" />
+            <img src="./imagem/futebol-grama.jpeg" alt="Soccer ball on the lawn" />
             <header>
                 <time>06/17/2022 at 12:10</time>
             </header>
@@ -35,7 +35,7 @@
             <a href="#" title="Read the full news">Read more</a>
         </article>
         <article>
-            <img src="./imagens/futebol-americano" alt="Americam footbol player with the ball in his hand" />
+            <img src="./imagem/futebol-americano.jpg" alt="Americam footbol player with the ball in his hand" />
             <header>
                 <time>06/17/2022 at 12:10</time>
             </header>
@@ -46,7 +46,7 @@
             <a href="#" title="Read the full news">Read more</a>
         </article>
         <article>
-            <img src="./imagens/basquete.jpg" title="Aerial view of a basketball court" />
+            <img src="./imagem/basquete.jpeg" title="Aerial view of a basketball court" />
             <header>
                 <time>06/17/2022 at 12:10</time>
             </header>
@@ -57,7 +57,7 @@
             <a href="#" title="Read the full news">Read more</a>
         </article>
         <article>
-            <img src="./imagens/basquete.jpg" title="Aerial view of a basketball court" />
+            <img src="./imagem/basquete.jpeg" title="Aerial view of a basketball court" />
                 <time>06/17/2022 at 12:10</time>
             </header>
             <h3>News About the NBA</h3>
@@ -70,7 +70,7 @@
     <section id="economy">
         <h2>Economy</h2>
         <article>
-            <img src="./imagens/dolares.jpg" alt="Many Dollars" />
+            <img src="./imagem/dolar.jpg.jpg" alt="Many Dollars" />
             <header>
                 <time>06/17/2022 at 12:10</time>
             </header>
@@ -81,7 +81,7 @@
             <a href="#" title="Read the full news">Read more</a>
         </article>
         <article>
-            <img src="./imagens/euro.jpg" alt="Several Euro banknotes" />
+            <img src="./imagem/euro.jpg" alt="Several Euro banknotes" />
             <header>
                 <time>06/17/2022 at 12:10</time>
             </header>
@@ -92,7 +92,7 @@
             <a href="#" title="Read the full news">Read more</a>
         </article>
         <article>
-            <img src="./imagens/petróleo.jpg" alt="Oil extraction" />
+            <img src="./imagem/petroleo.jpeg" alt="Oil extraction" />
             <header>
                 <time>06/17/2022 at 12:10</time>
             </header>
